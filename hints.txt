@@ -1,0 +1,101 @@
+A step-by-step procedure for calculations
+Interface allowing software components to communicate
+Software designed to perform a group of coordinated functions
+Copy of data that can be used to restore the original
+Capacity for data transfer in a system
+A system involving two states
+Smallest unit of data in computing
+A growing list of records linked using cryptography
+Wireless technology for exchanging data over short distances
+Software application for accessing information on the World Wide Web
+An error or flaw in a computer program
+Unit of digital information storage
+Hardware or software component used to store data
+Storing and accessing data over the internet
+Software that transforms source code into machine code
+Reducing the size of a file
+Small piece of data stored on the user's computer by the web browser
+Central processing unit, the primary component of a computer
+Secure communication in the presence of third parties
+Cascading Style Sheets, used for styling web pages
+Organized collection of data
+Identifying and removing errors from a computer program
+Conversion of encrypted data into its original form
+An identification string that defines a realm of administrative autonomy
+Transfer of a file from one computer system to another
+Software that controls a device
+Conversion of information into a code
+A system for computers to connect and communicate
+Software designed to block unauthorized access
+Permanent software programmed into a read-only memory
+A basic structure underlying a system
+A standard network protocol used for the transfer of computer files
+A node on a network that serves as an entrance to another network
+Graphics Interchange Format, a bitmap image format
+One billion bytes
+Graphical User Interface, allows users to interact with electronic devices
+HyperText Markup Language, standard language for creating web pages
+HyperText Transfer Protocol, foundation of data communication for the web
+Secure version of HTTP
+Integrated Development Environment, software application for computer programming
+Internet Protocol, principal communications protocol for relaying datagrams across networks
+High-level programming language
+Scripting language for web development
+Joint Photographic Experts Group, commonly used method of lossy compression for digital images
+Central part of a computer's operating system
+A particular word or phrase chosen as encapsulating the main points
+Local Area Network, connects computers within a limited area
+Family of open-source Unix-like operating systems
+Malicious software designed to cause damage
+Device that allows a computer to store information
+Device that converts data into a format suitable for a transmission medium
+Output device that displays information in pictorial form
+Main printed circuit board in a computer
+Hand-held pointing device that detects two-dimensional motion
+System of interconnected computers
+A point at which lines or pathways intersect or branch
+Software whose source code is released under a license
+Software that manages computer hardware and software resources
+Formatted unit of data carried by a packet-switched network
+Secret word or phrase used to gain admission to a resource
+Server-side scripting language designed for web development
+Smallest addressable element in a display device
+A base upon which a piece of software is designed
+Set of rules for data transmission
+High-level programming language
+Request for data or information from a database
+Random Access Memory, form of computer data storage
+Device that forwards data packets along networks
+High-level programming language
+Execution of a predefined sequence of instructions
+Software Development Kit, set of software development tools
+Software application for retrieving, presenting, and traversing information resources
+Protection of computer systems from theft or damage
+Search Engine Optimization, the process of increasing the visibility of a website
+Computer program that provides services to other computer programs
+Programs and operating information used by a computer
+Unsolicited messages sent over the internet
+Worksheet for the recording and totaling of data
+Structured Query Language, used for managing data held in a relational database management system
+Secure Sockets Layer, standard security technology for establishing an encrypted link
+Set of software components that provide a foundation for application software
+Means of storing and preserving data
+Sequence of characters
+Set of rules for writing programs
+Transmission Control Protocol, one of the main protocols in IP networks
+One trillion bytes
+Sequence of instructions that may be executed by a thread
+Malicious software that is harmful to a computer user
+User Interface, the space where interactions between humans and machines occur
+Family of multitasking, multiuser computer operating systems
+Transfer of a file from one computer system to another
+Uniform Resource Locator, reference to a web resource
+Universal Serial Bus, standard for connection, communication and power supply between computers
+Individual who uses a computer or network service
+Symbol or name that stands for a value
+Malicious software that is harmful to a computer user
+Virtual Private Network, extends a private network across a public network
+Wide Area Network, connects computers within a broad area
+World Wide Web, system of interlinked hypertext documents
+Technology for the wireless transmission of data
+
