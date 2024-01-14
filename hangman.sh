@@ -63,7 +63,7 @@ echo "Hint: $hint"
 
 while (( lives > 0 )); do
     echo "${hangman[6-lives]}"
-    echo "You have $lives lives left."
+    echo "You have $lives attempts left."
     echo "Word: $guess"
     read -p "Guess a letter: " -n 1 -r letter
     echo
@@ -77,7 +77,7 @@ while (( lives > 0 )); do
         done
     else
         ((lives--))
-        echo "Incorrect! You have $lives lives left."
+        echo "Incorrect! You have $lives attempts left."
     fi
 
     if [[ $guess == $word ]]; then
